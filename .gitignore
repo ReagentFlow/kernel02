@@ -2,4 +2,4 @@
 .venv/
 venv/
 private.json
-.idea
+.idea/
