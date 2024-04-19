@@ -1,0 +1,15 @@
+SCALES_PORT = 'COM3'
+KEY = 'private.json'
+COLLECTION = 'containers'
+SCANNER_PORT = '/dev/tty.Bluetooth-Incoming-Port'
+
+# video port for macbook pro 2017 /dev/cu.usbmodem00000000001A1
+# run port.py to find port for SCALES and SCANNER
+
+
+# start code:
+# python3 -m venv venv
+# source venv/bin/activate
+# pip3 install -r requirements.txt
+#
+# PYTHONPATH=. python src/main.py
